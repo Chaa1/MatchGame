@@ -46,7 +46,8 @@ namespace MatchGame
 
         private void SetUpGame()
         {
-            List<string> animalEmoji = new List<string>() //создали список инициализировав его картинками
+            List<string> animalEmoji = new List<string>() //создали список инициализировав
+                                                          //его картинками
             {
                "🐵", "🐵",
                "🐶", "🐶",
